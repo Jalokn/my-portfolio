@@ -69,6 +69,10 @@ const Services = () => {
               <BiCheck className="service_list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur.</p>
             </li>
+            <li>
+              <BiCheck className="service_list-icon" />
+              <p>Lorem ipsum dolor sit amet consectetur.</p>
+            </li>
           </ul>
         </article>
         {/* End of Web Development */}
@@ -77,10 +81,6 @@ const Services = () => {
             <h3>Content Creation</h3>
           </div>
           <ul className="service_list">
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
-            </li>
             <li>
               <BiCheck className="service_list-icon" />
               <p>Lorem ipsum dolor sit amet consectetur.</p>

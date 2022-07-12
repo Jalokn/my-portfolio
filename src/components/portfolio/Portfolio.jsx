@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
+import IMG1 from "../../assets/Screenshot 2022-07-12 155213.png";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
@@ -49,10 +49,10 @@ const Portfolio = () => {
             <img src={IMG1} alt="Project" />
           </div>
 
-          <h3>Protfolio Item Title</h3>
+          <h3>YelpCamp</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -60,7 +60,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://fathomless-bayou-82978.herokuapp.com/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -76,7 +76,7 @@ const Portfolio = () => {
           <h3>Protfolio Item Title</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -100,7 +100,7 @@ const Portfolio = () => {
           <h3>Protfolio Item Title</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -124,7 +124,7 @@ const Portfolio = () => {
           <h3>Protfolio Item Title</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -148,7 +148,7 @@ const Portfolio = () => {
           <h3>Protfolio Item Title</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -172,7 +172,7 @@ const Portfolio = () => {
           <h3>Protfolio Item Title</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Jalokn"
               className="btn"
               target="_blank"
               rel="noreferrer"

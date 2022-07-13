@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/Screenshot 2022-07-12 155213.png";
-import IMG2 from "../../assets/portfolio2.jpg";
+import IMG1 from "../../assets/yelp-camp.png";
+import IMG2 from "../../assets/shopping-cart.png";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
@@ -52,7 +52,7 @@ const Portfolio = () => {
           <h3>YelpCamp</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/YelpCamp"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -73,10 +73,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="Project" />
           </div>
-          <h3>Protfolio Item Title</h3>
+          <h3>Shopping Cart</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/react-ts-shoppingcart"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -84,7 +84,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://jacobsshoppingcart.netlify.app"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

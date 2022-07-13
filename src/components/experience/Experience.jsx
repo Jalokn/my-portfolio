@@ -71,7 +71,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Mongo Db</h4>
-                <small className="text-light">Begginer</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experience_details">

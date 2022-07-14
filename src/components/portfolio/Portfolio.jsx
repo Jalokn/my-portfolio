@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/yelp-camp.png";
 import IMG2 from "../../assets/shopping-cart.png";
-import IMG3 from "../../assets/portfolio3.jpg";
+import IMG3 from "../../assets/nextjs-blog.png";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
@@ -97,10 +97,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG3} alt="Project" />
           </div>
-          <h3>Protfolio Item Title</h3>
+          <h3>Blog</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/nextjs-blog"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -108,7 +108,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://nextjs-blog-jalokn.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

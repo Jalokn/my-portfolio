@@ -3,8 +3,8 @@ import "./portfolio.css";
 import IMG1 from "../../assets/yelp-camp.png";
 import IMG2 from "../../assets/shopping-cart.png";
 import IMG3 from "../../assets/nextjs-blog.png";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG4 from "../../assets/Tic-Tac-Toe.png";
+import IMG5 from "../../assets/CocktailDB.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 
 // To dynacmically generate
@@ -121,10 +121,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG4} alt="Project" />
           </div>
-          <h3>Protfolio Item Title</h3>
+          <h3>Tic-Tac-Toe</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/tic-tac-toe"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -132,7 +132,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://tictactoe-azure.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -145,10 +145,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG5} alt="Project" />
           </div>
-          <h3>Protfolio Item Title</h3>
+          <h3>Cocktail Database</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/CocktailDB"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -156,7 +156,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://cocktail-db-jalokn.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me-about.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -23,26 +23,29 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>3+ months coding</small>
+              <small>4+ months coding</small>
             </article>
 
-            <article className="about_card">
+            {/* <article className="about_card">
               <FiUsers className="about_icon" />
               <h5>Clients</h5>
               <small>Up to 1 client Worldwide!</small>
-            </article>
+            </article> */}
 
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
-              <small>YelpCamp!</small>
+              <small>See recent projects below</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-            voluptate nihil cumque blanditiis minima perspiciatis quidem ex
-            laudantium quisquam neque officia eius amet error, nesciunt aliquid
-            ipsa rerum debitis ipsum.
+            Seeking to pursuing a career in web development. I have taught
+            myself how to design modern websites by concentrating on the
+            front-end library React. That being said, I'm looking for a new
+            position where I can focus on designing streamlined, user-friendly
+            interfaces for intricate, feature-rich apps. I'm a naturally curious
+            person always seeking to broaden my technological knowledge and
+            skill set.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

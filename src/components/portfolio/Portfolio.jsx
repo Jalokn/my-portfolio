@@ -5,7 +5,7 @@ import IMG2 from "../../assets/shopping-cart.png";
 import IMG3 from "../../assets/nextjs-blog.png";
 import IMG4 from "../../assets/Tic-Tac-Toe.png";
 import IMG5 from "../../assets/CocktailDB.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/dashboard.png";
 
 // To dynacmically generate
 //
@@ -169,10 +169,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG6} alt="Project" />
           </div>
-          <h3>Protfolio Item Title</h3>
+          <h3>Admin Dashboard</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com/Jalokn"
+              href="https://github.com/Jalokn/dashboard"
               className="btn"
               target="_blank"
               rel="noreferrer"
@@ -180,7 +180,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://admin-dashboard-jalokn.vercel.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

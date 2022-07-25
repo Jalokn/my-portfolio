@@ -56,13 +56,13 @@ const Contact = () => {
 
           <article className="contact_option">
             <BsWhatsapp className="contact_option-icon" />
-            <h4>WhatsApp</h4> <h5>435-680-4753</h5>
+            <h4>SMS</h4> <h5>435-680-4753</h5>
             <a
               href="https://api.whatsapp.com/send?phone=14356804753"
               target="_blank"
               rel="noreferrer"
             >
-              SMS
+              Text Me
             </a>
           </article>
         </div>

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./nav.css";
+import "components/nav/nav.css";
 import { AiOutlineHome, AiOutlineUser, AiOutlineMessage } from "react-icons/ai";
 import { RiServiceLine } from "react-icons/ri";
 import { BiBook } from "react-icons/bi";

@@ -1,11 +1,11 @@
 import React from "react";
-import "./portfolio.css";
-import IMG1 from "../../assets/yelp-camp.png";
-import IMG2 from "../../assets/shopping-cart.png";
-import IMG3 from "../../assets/nextjs-blog.png";
-import IMG4 from "../../assets/Tic-Tac-Toe.png";
-import IMG5 from "../../assets/CocktailDB.png";
-import IMG6 from "../../assets/dashboard.png";
+import "components/portfolio/portfolio.css";
+import IMG1 from "assets/yelp-camp.png";
+import IMG2 from "assets/shopping-cart.png";
+import IMG3 from "assets/nextjs-blog.png";
+import IMG4 from "assets/Tic-Tac-Toe.png";
+import IMG5 from "assets/CocktailDB.png";
+import IMG6 from "assets/dashboard.png";
 
 // To dynacmically generate
 //

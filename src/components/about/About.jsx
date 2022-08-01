@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            pursuing a career in web development. I have taught myself how to
+            Pursuing a career in web development. I have taught myself how to
             design modern websites by concentrating on the front-end library
             React. That being said, I'm looking for a new position where I can
             focus on designing streamlined, user-friendly interfaces for

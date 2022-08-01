@@ -39,13 +39,12 @@ const About = () => {
             </article>
           </div>
           <p>
-            Seeking to pursuing a career in web development. I have taught
-            myself how to design modern websites by concentrating on the
-            front-end library React. That being said, I'm looking for a new
-            position where I can focus on designing streamlined, user-friendly
-            interfaces for intricate, feature-rich apps. I'm a naturally curious
-            person always seeking to broaden my technological knowledge and
-            skill set.
+            pursuing a career in web development. I have taught myself how to
+            design modern websites by concentrating on the front-end library
+            React. That being said, I'm looking for a new position where I can
+            focus on designing streamlined, user-friendly interfaces for
+            intricate, feature-rich apps. I'm a naturally curious person always
+            seeking to broaden my technological knowledge and skill set.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

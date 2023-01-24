@@ -23,7 +23,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>4+ months coding</small>
+              <small>One year coding</small>
             </article>
 
             {/* <article className="about_card">
@@ -39,12 +39,16 @@ const About = () => {
             </article>
           </div>
           <p>
-            Pursuing a career in web development. I have taught myself how to
-            design modern websites by concentrating on the front-end library
-            React. That being said, I'm looking for a new position where I can
-            focus on designing streamlined, user-friendly interfaces for
-            intricate, feature-rich apps. I'm a naturally curious person always
-            seeking to broaden my technological knowledge and skill set.
+            Highly analytical individual with advanced knowledge and passion for
+            designing, developing, and deploying software, applications,
+            algorithms, and flowcharts. Talent for troubleshooting and resolving
+            issues, developing practical/time-saving software solutions,
+            administering systems and networks, and reducing complexity/risk.
+            Knowledgeable in analyzing requirements to ensure optimal
+            performance, quality, and responsiveness of applications. Solid
+            background in mortgage loan processing and sales. Possess
+            exceptional interpersonal, planning, problem-solving, time
+            management, attention to detail, and organizational skills.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
